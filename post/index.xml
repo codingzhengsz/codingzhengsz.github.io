@@ -5,7 +5,16 @@
     <link>https://codingzhengsz.github.io/post/</link>
     <description>Recent content in Posts on Martin&#39;s Blogs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 31 Jan 2021 11:36:40 +0800</lastBuildDate><atom:link href="https://codingzhengsz.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Jan 2021 16:16:16 +0800</lastBuildDate><atom:link href="https://codingzhengsz.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Log</title>
+      <link>https://codingzhengsz.github.io/post/test-log/</link>
+      <pubDate>Sun, 31 Jan 2021 16:16:16 +0800</pubDate>
+      
+      <guid>https://codingzhengsz.github.io/post/test-log/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>This is a test Blog</title>
       <link>https://codingzhengsz.github.io/post/my-first-blog/</link>
